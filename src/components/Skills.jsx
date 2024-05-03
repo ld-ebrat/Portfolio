@@ -55,6 +55,10 @@ const Skills = () => {
                                 <img src="/images/python.png" />
                                 <h4>Python</h4>
                             </div>
+                            <div className="flex flex-col items-center justify-center">
+                                <img src="/images/flask-b.png" />
+                                <h4>Flask</h4>
+                            </div>
                         </div>
                     </div>
                     <div className="w-3/10 p-3 flex flex-col items-center border border-blue-700 rounded-2xl shadow-blue-600 shadow-lg">
