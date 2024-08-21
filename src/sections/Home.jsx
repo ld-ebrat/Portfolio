@@ -16,7 +16,7 @@ const Home = () => {
                         </h2>
                     </div>
                     <h6 className="text-lg">Full Stack React & NodeJS</h6>
-                    <button className="bg-blue-800 text-white border border-blue-900 px-5 py-1 rounded-full">Dowload CV</button>
+                    <button className="bg-blue-800 text-white border border-blue-900 px-5 py-1 rounded-full">Descargar CV</button>
                 </div>
             </div>
         </>

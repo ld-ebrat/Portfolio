@@ -21,7 +21,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <div>
-                        <h4 className="text-xl font-bold">Contact</h4>
+                        <h4 className="text-xl font-bold">Contacto</h4>
                         <div>
                             <div className="flex gap-2 items-center">
                                 <div>

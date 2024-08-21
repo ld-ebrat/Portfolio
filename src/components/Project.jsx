@@ -14,7 +14,7 @@ const Project = ({infoProject, nameProject}) => {
                         }
                     </div>
                     <div>
-                        <span>Status: </span>
+                        <span>Estado: </span>
                         <span className="bg-yellow-400 px-2 py-1 rounded-full text-black">{infoProject.status}</span>
                     </div>
                     <div className="flex gap-2">
