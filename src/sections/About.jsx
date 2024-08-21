@@ -12,7 +12,7 @@ const About = () => {
                     </div>
                 </div>
                 <div>
-                    <button className="border border-black rounded-3xl px-4 py-1">Dowload CV</button>
+                    <a href="/documents/Hoja de vida Leiner.pdf" download={"Hoja de vida Leiner.pdf"} className="border border-black rounded-3xl px-4 py-1">Dowload CV</a>
                 </div>
             </div>
         </>

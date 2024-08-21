@@ -1,18 +1,18 @@
 import { useEffect, useRef, } from "react";
-import {Link} from "react-scroll"
+import { Link } from "react-scroll"
 
 const NavBar = () => {
     const elemntRef = useRef(null)
     const elementRef = useRef(null)
 
-    useEffect(()=>{
+    useEffect(() => {
         const elemt = elemntRef.current
         const element = elementRef.current
 
-        if(element){
+        if (element) {
             element.style.height = `${elemt.clientHeight}px`
         }
-    },[])
+    }, [])
     return (
         <header>
             <nav ref={elemntRef} className="w-full flex justify-between items-center py-2 px-10 fixed border-b border-gray-300 bg-white">

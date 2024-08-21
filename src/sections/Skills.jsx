@@ -76,6 +76,10 @@ const Skills = () => {
                                 <img src="/images/npm.png"/>
                                 <h4>Npm</h4>
                             </div>
+                            <div className="flex flex-col items-center justify-center">
+                                <img src="/images/docker.png"/>
+                                <h4>Docker</h4>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -20,6 +20,29 @@ const Footer = () => {
                             </a>
                         </div>
                     </div>
+                    <div>
+                        <h4 className="text-xl font-bold">Contact</h4>
+                        <div>
+                            <div className="flex gap-2 items-center">
+                                <div>
+                                    <img src="./images/email.png" />
+                                </div>
+                                <span>ebrat-ld@gmail.com</span>
+                            </div>
+                            <div className="flex gap-2 items-center">
+                                <div>
+                                    <img src="../../public/images/phone.png" />
+                                </div>
+                                <span>+573016251907</span>
+                            </div>
+                            <div className="flex gap-2 items-center">
+                                <div>
+                                    <img src="../../public/images/linkedin.png" />
+                                </div>
+                                <span>Leiner David Ebrat Angarita</span>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </>
